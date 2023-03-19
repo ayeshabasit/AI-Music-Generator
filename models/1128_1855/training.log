@@ -1,0 +1,2 @@
+1 runs detected
+Num Layers: 2, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 0.8, Cell Type: lstm, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.9
